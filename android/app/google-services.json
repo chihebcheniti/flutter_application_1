@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461715418790",
+    "project_id": "compus-app",
+    "storage_bucket": "compus-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461715418790:android:515edf380c069ea1148e67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNlGrFt2OS35ckXEEifjbhEVLqwIPRe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
